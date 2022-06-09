@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(245, 242, 237);
+}
+
+.navbg {
+    background-color: black;
+    font-weight: bold;
+}
+
+.navbg ul li {
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+}
